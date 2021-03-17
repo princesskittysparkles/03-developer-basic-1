@@ -47,4 +47,4 @@ for x in range(password_length):
 print(''.join(password))
 
 #Bonus
-#TDO: Copy the generated password to the users clip board
+#TODO: Copy the generated password to the users clip board
