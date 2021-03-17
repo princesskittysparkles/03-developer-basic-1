@@ -8,7 +8,7 @@
 Aurthor : [Your name here]
 Email   : [Your email address here]
 Purpose : [What does this program do?]
-Date.   : [Date of completion]
+Date    : [Date of completion]
 """
 
 
