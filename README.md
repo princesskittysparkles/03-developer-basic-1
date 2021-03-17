@@ -4,6 +4,9 @@
 
 In this section we will put the Dev in DevOps
 
+## Review
+[Python in 1 hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
+
 
 ## Directions
 
